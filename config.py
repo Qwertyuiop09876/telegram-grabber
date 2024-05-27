@@ -1,9 +1,10 @@
-api_id = 
-api_hash = ''
-bot_token = ''
-my_id = 
+api_id = 24200443
+api_hash = '
+83805457b6772e6ebb811c1f04925931'
+bot_token = '6462557578:AAH4PwIDKjfBFNvebRDG98cwG9-6RNX6F8U'
+my_id = 690149352
 
-technical_channel_id =   # ID технического канала
+technical_channel_id = 1002246789783  # ID технического канала
 
 new_link = "http://t.me/"
 new_username = "@"
